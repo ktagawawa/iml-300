@@ -1,0 +1,32 @@
+h1{color;red;}
+div{padding: 20px
+}
+
+p{
+    background-color: gray;
+    color:antiquewhite;
+    border:???
+    margin:???
+    padding:
+}
+
+
+
+/*type1 selection by tag name
+
+all h1, div and p will have the font size*/
+h1,div,p{
+    font-size:50px;
+}
+
+/* type 2 selection by class
+can name anything "." and then class name
+insert like <h1 class=".bam"> </h1>*/
+
+.bam{
+    font-size:15px;
+    color: greenyellow;
+}
+
+
+/*type 3 */

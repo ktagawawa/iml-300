@@ -1,0 +1,16 @@
+body {
+    background-color: #CFB7FF;
+}
+h1 {
+    font-size: 50px;
+    font-family: futura;
+    text-shadow: 10px 10px #38ACEC;
+    text-align:center;
+}
+
+h2{
+    font-size: 20px;
+    font-family: gill sans;
+    text-align:center;
+    text-decoration-color: black;
+}
